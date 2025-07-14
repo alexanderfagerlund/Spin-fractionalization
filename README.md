@@ -78,16 +78,4 @@ corrmat-lx=22-m=1-Ne=299-qhtype=3_0_2-cutoff=12.wdx: correlation matrix for the 
 
 corrmat-lx=22-m=1-Ne=298-qhtype=4_-4_0-cutoff=12.wdx: correlation matrix for the psi_2 quasihole.
 
-### Bulk spin data for RR fluid:
 
-spin-1drev-lx=22-m=1-Ne=300-qhtype=1_2_0-cutoff=12.wl: bulk spin for sigma_1 quasihole.
-
-spin-1drev-lx=22-m=1-Ne=300-qhtype=2_-2_0-cutoff=12.wl: bulk spin for sigma_2 quasihole.
-
-spin-1drev-lx=22-m=1-Ne=300-qhtype=3_0_0-cutoff=12.wl: bulk spin for Laughlin quasihole.
-
-spin-1drev-lx=22-m=1-Ne=300-qhtype=2_4_0-cutoff=12.wl: bulk spin for psi_1 quasihole.
-
-spin-1drev-lx=22-m=1-Ne=300-qhtype=3_0_2-cutoff=12.wl: bulk spin for epsilon quasihole.
-
-spin-1drev-lx=22-m=1-Ne=300-qhtype=4_-4_0-cutoff=12.wl: bulk spin for psi_2 quasihole.
