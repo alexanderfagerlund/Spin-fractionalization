@@ -43,3 +43,17 @@ jbPsi2List.csv: bulk spin data for the psi_2 quasihole.
 jbEpsilonList.csv: bulk spin data for the epsilon quasihole.
 
 edgespinplots_RR_paper.py: used to plot the spin data in Fig. 2, using the .csv files above.
+
+## Files for computing the data used above:
+
+### Computation programs: 
+
+edgeSpinPlot.nb: used to compute bulk and edge spins for Fig. 1.
+
+Datagen_edgespin_paper.nb: used to compute edge spins for Fig. 2.
+
+q-j-vs-tau-modified-2.nb: used to compute bulk spins for Fig. 2.
+
+### MPS data used in the above programs:
+
+
