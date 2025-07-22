@@ -1,6 +1,6 @@
 # Spin fractionalization
 
-Supporting data for the paper "Spin fractionalization at the edge of quantum Hall fluids induced by bulk quasiparticles". Arxiv link: https://arxiv.org/abs/2412.14879
+Supporting data for the paper "Spin fractionalization at the edge of quantum Hall fluids induced by bulk quasiparticles". Arxiv link: https://arxiv.org/abs/2412.14879 DOI: 10.5281/zenodo.16323231
 
 # Explanation of files:
 
